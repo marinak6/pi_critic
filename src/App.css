@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Reem+Kufi');
+@import url('https://fonts.googleapis.com/css?family=Headland+One');
+
+.Content{
+  margin: 0;
+  padding: 0;
+  bottom: 0;
+  position: relative;
+  padding-bottom: 6rem;
+}
+.Title {
+  color:#8699c9;
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 60px;
+  margin-top: 7%;
+}
+
+.Subtitle {
+  margin-top: 2%;
+  color: #8699c9;
+  font-style: italic;
+}
+#pie_image {
+  width: 70px;
+  height: auto;
+}
+.Input_Area {
+  width: 70%;
+  margin: auto;
+  margin-top: 5%;
+}
+
+.Button_generate {
+  margin-top:6%;
+}
+
+.Output_Area {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.Link_Critic {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  margin-bottom: 5%;
+  text-decoration: underline;
+}
+.Meet_editor {
+  display:block;
+  position: fixed;
+  width: 100%;
+  height:100%;
+}
+#pi {
+  width: 500px;
+  height:auto;
+  position:fixed;
+  left:50%;
+  top:50%;
+  margin-left: -250px;
+  margin-top: -242.32px;
+}
+.Back_link {
+  position: fixed;
+  font-color: white;
+  top: 0;
+  height:100%;
+  margin-top: 20px;
+  margin-left: 20px;
+  text-decoration: underline;
+}
+body {
+  margin: 0;
+}
