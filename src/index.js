@@ -1,3 +1,6 @@
+// entry point of the application
+// initialize app 
+// use ReactDOM.render to render RouteC which calls upon another component 
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
